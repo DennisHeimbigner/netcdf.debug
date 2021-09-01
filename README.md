@@ -1,2 +1,6 @@
 # netcdf.debug
-Hold the various debug scripts for netcdf for use by dmh
+
+Hold debug scripts used by Dennis Heimbigner
+for debugging netcdf-c.
+USE AT YOUR OWN PERIL.
+
